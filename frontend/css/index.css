@@ -1,0 +1,22 @@
+.eliminar {
+    background-color: rgba(203, 23, 119, 0.773);
+    color: white;
+  }
+  html{
+    background-color: white;
+  }
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  right: 0;
+  left: auto;
+}
+.container {background-color: #f57ce577;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+  width: 80%;
+  position: inherit;
+  top: 9px;
+  cursor: pointer;
+}
